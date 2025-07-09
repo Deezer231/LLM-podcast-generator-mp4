@@ -13,8 +13,8 @@ A full-stack web app that generates AI-powered podcasts from a topic prompt, sto
 <img src="https://github.com/user-attachments/assets/ab2517df-27f4-416b-9d47-64900205ea26" height ="477" width="406"/> 
 <img src="https://github.com/user-attachments/assets/08babbec-c939-4d82-b3a8-8d2781348a88" height ="477" width="415"/>
 
-<img src="https://github.com/user-attachments/assets/08babbec-c939-4d82-b3a8-8d2781348a88" height ="300" width="470"/>
-<img src="https://github.com/user-attachments/assets/08babbec-c939-4d82-b3a8-8d2781348a88" height ="307" width="477"/>
+<img src="https://github.com/user-attachments/assets/08babbec-c939-4d82-b3a8-8d2781348a88" height ="300" width="406"/>
+<img src="https://github.com/user-attachments/assets/08babbec-c939-4d82-b3a8-8d2781348a88" height ="307" width="415"/>
 
 ## How It Works!
 
