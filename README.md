@@ -122,4 +122,4 @@ podcast generator/
 - **Passwords are securely hashed with bcrypt before storing in MySQL.**
 - **AI-generated podcasts may contain false information or hallucinated details. Always fact-check important content.**
 
-Side Note - GPT4ALL Falcon kinda sucks and hallucinated like crazy but itsd freeee soooooo ??????????????
+Side Note - GPT4ALL Falcon kinda sucks and hallucinated like crazy but its freeee soooooo ??????????????
