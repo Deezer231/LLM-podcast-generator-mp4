@@ -1,0 +1,13 @@
+node_modules/
+.env
+*.env
+/public/*
+!/public/README.md
+/models/*
+!/models/README.md
+*.mp3
+*.gguf
+*.ggml
+*.bin
+*.log
+.DS_Store

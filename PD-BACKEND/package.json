@@ -1,0 +1,22 @@
+{
+  "name": "podcast-generator",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "download": "^8.0.0",
+    "express": "^5.1.0",
+    "google-tts-api": "^2.0.2",
+    "gpt-tokenizer": "^3.0.1",
+    "gpt4all": "^4.0.0"
+  },
+  "description": ""
+}
