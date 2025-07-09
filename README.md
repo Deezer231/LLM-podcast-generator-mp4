@@ -10,8 +10,8 @@ A full-stack web app that generates AI-powered podcasts from a topic prompt, sto
 - MongoDB for podcast storage
 - Protected dashboard and podcast list for logged-in users
   
-<img src="https://github.com/user-attachments/assets/ab2517df-27f4-416b-9d47-64900205ea26" width="320"/> 
-<img src="https://github.com/user-attachments/assets/08babbec-c939-4d82-b3a8-8d2781348a88" width="327"/>
+<img src="https://github.com/user-attachments/assets/ab2517df-27f4-416b-9d47-64900205ea26" width="340"/> 
+<img src="https://github.com/user-attachments/assets/08babbec-c939-4d82-b3a8-8d2781348a88" width="347"/>
 
 <img src="https://github.com/user-attachments/assets/08babbec-c939-4d82-b3a8-8d2781348a88" height ="470" width="470"/>
 <img src="https://github.com/user-attachments/assets/08babbec-c939-4d82-b3a8-8d2781348a88" height ="477" width="477"/>
