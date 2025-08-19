@@ -17,7 +17,7 @@ Figma Wireframe Link: https://www.figma.com/design/w8SSCzBFSoHZctkjLxSAqE/AI-Pod
 <img src="https://github.com/user-attachments/assets/db79e47d-0424-46f0-9573-753121e9ddc9" height ="317" width="410"/>
 <img src="https://github.com/user-attachments/assets/7666b2fe-9b3d-451e-bab2-c888c6d410a7" height ="317" width="410"/>
 
-<img src="https://github.com/user-attachments/assets/c2b8b735-f956-46a4-8586-9f7a8928ac2b" height ="350" width="830"/>
+<img src="https://github.com/user-attachments/assets/c2b8b735-f956-46a4-8586-9f7a8928ac2b" height ="400" width="830"/>
 
 
 
