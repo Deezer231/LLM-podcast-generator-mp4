@@ -82,6 +82,7 @@ MYSQL_DATABASE=your_mysql_db
 # Backend
 cd PD-BACKEND
 npm install
+npm install connect-mongo
 
 # Frontend
 cd ../podcast-frontend
