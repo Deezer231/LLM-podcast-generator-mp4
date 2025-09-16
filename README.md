@@ -1,4 +1,4 @@
-# AI Podcast Generator
+# LLM Podcast Generator
 
 ## Overview
 A full-stack web app that generates AI-powered podcasts from a topic prompt, stores them, and allows users to register, login, and listen/download generated podcasts.
