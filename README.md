@@ -3,7 +3,7 @@
 ## Overview
 A full-stack web app that generates AI (Used a LLM) -powered podcasts from a topic prompt, stores them, and allows users to register, login, and listen/download generated podcasts.
 
-Figma Wireframe Link: https://www.figma.com/design/w8SSCzBFSoHZctkjLxSAqE/AI-Podcast-Generator-wireframe?node-id=1-3&t=U6UX9jmyCM1DajuY-1
+Figma Wireframe Link: https://www.figma.com/design/w8SSCzBFSoHZctkjLxSAqE/LLM-Podcast-Generator-wireframe?node-id=1-3&t=4ENstLJ3vkcJQOdC-1
 ## Features
 - User registration and login (MySQL backend, passwords hashed with bcrypt)
 - Podcast generation using GPT4All Falcon (runs locally/offline)
